@@ -1,0 +1,27 @@
+_repo: True-Version-of-the-Philippine-Revolution_12996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aguinaldo, Emilio
+    alias: Aguinaldo y Famy, Emilio
+    birthdate: 1869
+    deathdate: 1964
+    gutenberg_agent_id: '5462'
+    url: http://www.gutenberg.org/2009/agents/5462
+    wikipedia: http://en.wikipedia.org/wiki/Emilio_Aguinaldo
+description: ''
+gutenberg_issued: '2004-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902'
+- !lcsh 'Philippines -- History -- Revolution, 1896-1898'
+- GITenberg
+title: True Version of the Philippine Revolution
+url: http://www.gutenberg.org/ebooks/12996
